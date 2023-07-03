@@ -1,6 +1,6 @@
-*Esteban Mario Mendieta*
+# Esteban Mario Mendieta
 
-# Mi perfil de GitHub
+## Mi perfil de GitHub
 
 [![Web](https://img.shields.io/badge/GitHub-Eteban22-14a1f0?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/Eteban22)
 
